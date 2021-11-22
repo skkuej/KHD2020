@@ -22,7 +22,9 @@ This experiment has been conducted by using Breast dynamic contrast T1-weighted 
 
 ## Lincense
 /*******************************************************
-Copyright (C) 2021 Eunjin Kim dmswlskim970606@gmail.com 
+
+Copyright (C) 2021 Eunjin Kim dmswlskim970606@gmail.com, Hyebin Lee  leehye0106@naver.com, Jieun Choi line7220@gmail.com
+
 *******************************************************/
 
 ## Acknowledge
