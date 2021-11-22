@@ -27,8 +27,21 @@ In case of turbidity in the entire maxillary sinus
 </div>
 
 
-## Details about contest
-<a href="./img/KHD_2020_PNS.pdf"> KHD_2020_PNS.pdf </a>
+ More details about contest 
+ : <a href="./img/KHD_2020_PNS.pdf"> KHD_2020_PNS.pdf </a>
+
+## Methods
+
+First, Preprocess the data and augmentation (RandomAffine/Rotation/Flip/GaussianBlur/Cutout), 
+Second, Train pre-trained model(EfficientNetB5),
+Third, Evaluate the model by accuracy, precision, recall, F1-score and AUC.
+
+Overall, we used various augmentation techniques and retrained using a large pretrained model. 
+In addition to the F1 score, performance could be improved by using various various performance evaluation metrics.
+
+
+
+## Results
 
 ## Lincense
 /*******************************************************
