@@ -2,10 +2,6 @@
     <p> Korea-Health-Datathon 2020</p>
 </h1>
 
-<div align="center">
-  <img src="./KHD_2020_PNS.pdf" width=530>
-</div>
-
 ## Objective 
 Korea Health Datathon 2020 uses X-ray images (sinus) and digital pathology images (breast cancer) images for learning by using the medical image data for learning built through the 'Artificial Intelligence Learning Data Construction Project'. It is a data tone competition that is planned and developed.
 
