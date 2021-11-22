@@ -23,7 +23,7 @@ When air and liquid shadows in the maxillary sinus are clearly visible transvers
 3) Haziness
 In case of turbidity in the entire maxillary sinus
 <div align="center">
-  <img src="./img/img2.jpg" width=530>
+  <img src="./img/img2.JPG" width=530>
 </div>
 
 
