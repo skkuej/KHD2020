@@ -8,14 +8,24 @@
 </h1>
 
 ## Objective 
-Korea Health Datathon 2020 uses X-ray images (sinus) and digital pathology images (breast cancer) images for learning by using the medical image data for learning built through the 'Artificial Intelligence Learning Data Construction Project'. It is a data tone competition that is planned and developed.
+**Korea Health Datathon 2020 uses X-ray images (sinus)** and digital pathology images (breast cancer) images for learning by using the medical image data for learning built through the 'Artificial Intelligence Learning Data Construction Project'. It is a data tone competition that is planned and developed.
 
 ## Task 
 **Sinus Image Learning Algorithm Performance Evaluation**
-Development of a deep learning model to classify sinusitis in the left and right maxillary sinuses of a patient using sinus X-ray images
+Development of a deep learning model **to classify sinusitis in the left and right maxillary sinuses of a patient using sinus X-ray images.**
 
 ## Data Description
-This experiment has been conducted by using Breast dynamic contrast T1-weighted MRI (DCE MRI) supported by Samsung Medical Centor and Gil Hospital. DCE MRI have several series images, especially we used pre-contrast image (preT1) before the contrast agenet injection and contrast-enhanced image (ceT1) performing at 90 sec.
+**Sinusitis**
+1) Mucosal thickening 
+When the mucosal thickening in the maxillary sinus is 2 mm or more
+2) Air fluid
+When air and liquid shadows in the maxillary sinus are clearly visible transversely
+3) Haziness
+In case of turbidity in the entire maxillary sinus
+<div align="center">
+  <img src="./img/img2.jpg" width=530>
+</div>
+
 
 ## Details about contest
 <a href="./img/KHD_2020_PNS.pdf"> KHD_2020_PNS.pdf </a>
