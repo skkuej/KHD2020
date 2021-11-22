@@ -18,7 +18,7 @@ Development of a deep learning model to classify sinusitis in the left and right
 This experiment has been conducted by using Breast dynamic contrast T1-weighted MRI (DCE MRI) supported by Samsung Medical Centor and Gil Hospital. DCE MRI have several series images, especially we used pre-contrast image (preT1) before the contrast agenet injection and contrast-enhanced image (ceT1) performing at 90 sec.
 
 ## Details about contest
-<a href="./img/KHD_2020_PNS.pdf"> KHD_2020_PNS.pdf
+<a href="./img/KHD_2020_PNS.pdf"> KHD_2020_PNS.pdf </a>
 
 ## Lincense
 /*******************************************************
